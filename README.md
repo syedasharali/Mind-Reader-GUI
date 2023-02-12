@@ -18,7 +18,7 @@ A fun and interactive mind-reading program built with the Tkinter module in Pyth
 - Indicate whether the number you selected earlier appears on each card.
 - The program will reveal the number you originally chose.
 
-
+### In this example I chose 13
 -![Usage](screenshots/1676204198.png)
 -![Usage](screenshots/1676204328.png)
 -![Usage](screenshots/1676204331.png)
