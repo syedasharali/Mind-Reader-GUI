@@ -19,12 +19,14 @@ A fun and interactive mind-reading program built with the Tkinter module in Pyth
 - The program will reveal the number you originally chose.
 
 
--![Usage](screenshots/1675101459.jpg)
--![Usage](screenshots/1675100580.jpg)
--![Usage](screenshots/1675100591.jpg)
--![Usage](screenshots/1675100623.jpg)
--![Usage](screenshots/1675101628.jpg)
--![Usage](screenshots/1675104988.jpg)
+-![Usage](screenshots/1676204198.png)
+-![Usage](screenshots/1676204328.png)
+-![Usage](screenshots/1676204331.png)
+-![Usage](screenshots/1676204334.png)
+-![Usage](screenshots/1676204336.png)
+-![Usage](screenshots/1676204339.png)
+-![Usage](screenshots/1676204343.png)
+-![Usage](screenshots/1676204347.png)
 
 
 ## Authors
